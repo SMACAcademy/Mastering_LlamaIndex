@@ -1,0 +1,19 @@
+pip install llama-index
+pip show llama-index
+
+import os
+openai_token = input('Please enter your OPENAI_API_KEY key: ')
+os.environ['OPENAI_API_KEY'] = openai_token
+
+from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+from llama_index.core import Settings
+
+from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+Settings.chunk_size = 512
+Settings.chunk_overlap = 50
+
+documents = SimpleDirectoryReader("/content/data2").load_data()
+index = VectorStoreIndex.from_documents(documents)
+query_engine = index.as_query_engine()
+response = query_engine.query("Which city mentioned in the document?")
+print(response)
