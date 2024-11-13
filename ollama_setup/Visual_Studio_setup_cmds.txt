@@ -1,0 +1,19 @@
+After ctrl+shift+P
+
+python: select Interpreter
+
+Create: New Jupyter Notebook
+
+
+conda create -n llamaindex python=3.11 -y 
+
+conda activate llamaindex
+
+pip install llama-index
+
+pip install llama-index-llms-ollama
+
+from llama_index.llms.ollama import Ollama
+llm = Ollama(model="llama3.2:latest", request_timeout=60.0)
+response = llm.complete("Explain Median in Triangles")
+print(response)
