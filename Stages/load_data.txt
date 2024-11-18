@@ -1,9 +1,0 @@
-
-
-Set the Default Encoding in Your Environment Modify your environment variables to force Python to use utf-8 encoding:
-
-set PYTHONUTF8=1
-
-
-llamaindex-cli download-llamadataset PaulGrahamEssayDataset --download-dir ./data2
-

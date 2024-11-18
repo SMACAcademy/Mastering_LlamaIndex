@@ -9,6 +9,9 @@ conda create -n llamaindex python=3.11 -y
 
 conda activate llamaindex
 
+conda env list
+
+
 pip install llama-index
 
 pip install llama-index-llms-ollama
