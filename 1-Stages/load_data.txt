@@ -4,10 +4,10 @@ Set the Default Encoding in Your Environment Modify your environment variables t
 
 set PYTHONUTF8=1
 
+llamaindex-cli download-llamadataset Uber10KDataset2021 --download-dir ./data4/uber_2021
+llamaindex-cli download-llamadataset Llama2PaperDataset --download-dir ./data4/llama2_paper
+llamaindex-cli download-llamadataset PaulGrahamEssayDataset --download-dir ./data4/paul_graham_essay
 
-llamaindex-cli download-llamadataset uber_2021 --download-dir ./data4/uber_2021
-llamaindex-cli download-llamadataset llama2_paper --download-dir ./data4/llama2_paper
-llamaindex-cli download-llamadataset paul_graham_essay --download-dir ./data4/paul_graham_essay
 
 
 paul_graham_essay
