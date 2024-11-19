@@ -10,3 +10,4 @@ try_demo
 1-Stages/vector_store_index.json
 1-Stages/document_embeddings.json
 1-Stages/index_structure.json
+data_uber/
