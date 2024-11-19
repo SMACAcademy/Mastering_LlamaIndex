@@ -6,3 +6,7 @@ data4
 data5
 data6
 try_demo
+1-Stages/vector_store_index_docstore.json
+1-Stages/vector_store_index.json
+1-Stages/document_embeddings.json
+1-Stages/index_structure.json
