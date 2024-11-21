@@ -1,4 +1,4 @@
-data
+/data
 data1
 data2
 data3
@@ -13,3 +13,4 @@ try_demo
 data_uber/
 chroma_db
 0-examples
+2-Stage-Loading/data_parallel/*
