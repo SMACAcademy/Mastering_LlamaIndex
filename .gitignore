@@ -14,3 +14,6 @@ data_uber/
 chroma_db
 0-examples
 2-Stage-Loading/data_parallel/*
+2-Stage-Loading/credentials.json
+2-Stage-Loading/newstats
+2-Stage-Loading/oldstats
