@@ -20,3 +20,5 @@ chroma_db
 2-Stage-Loading/token.json
 4-Stage-Storage/storage_context/*
 4-Stage-Storage/persist_store
+4-Stage-Storage/storage/*
+4-Stage-Storage/mongodb_index_ids.json
