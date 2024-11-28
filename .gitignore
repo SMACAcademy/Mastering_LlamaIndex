@@ -18,3 +18,5 @@ chroma_db
 2-Stage-Loading/newstats
 2-Stage-Loading/oldstats
 2-Stage-Loading/token.json
+4-Stage-Storage/storage_context/*
+4-Stage-Storage/persist_store
