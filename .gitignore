@@ -22,3 +22,4 @@ chroma_db
 4-Stage-Storage/persist_store
 4-Stage-Storage/storage/*
 4-Stage-Storage/mongodb_index_ids.json
+4-Stage-Storage/redis_storage/*
