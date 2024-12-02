@@ -23,3 +23,5 @@ chroma_db
 4-Stage-Storage/storage/*
 4-Stage-Storage/mongodb_index_ids.json
 4-Stage-Storage/redis_storage/*
+3-Stage-Index/vector_index_1.json
+3-Stage-Index/vector_index_1_docstore.json
