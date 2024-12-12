@@ -33,3 +33,6 @@ chroma_db
 data_ipcc/IPCC_AR6_WGII_Chapter03.pdf
 5-Querying/bm25_retriever/*
 5-Querying/docstore.json
+6-Agents/data/june_2022/*
+6-Agents/data/sept_2022/*
+6-Agents/data/march_2022/*
