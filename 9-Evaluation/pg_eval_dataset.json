@@ -1,119 +1,119 @@
 {
     "queries": {
-        "6203d1ec-d789-415c-9157-86b521795090": "Question 1 (Historical Context): In what year did the narrator first start programming? Provide the exact year.",
-        "abd64d1e-067a-468b-a72b-9a9dfc48a585": "Question 2 (Critical Thinking/Analysis): The narrator mentions that their early programs on the IBM 1401 were not very useful due to lack of data and mathematical knowledge. Can you suggest a scenario where the IBM 1401 could have been more beneficial for the narrator if they had more knowledge or resources? Justify your answer with examples from the context provided.",
-        "46519390-c81f-443d-86c4-420004b0b870": "Question 1 (Historical Context): In what year did the narrator purchase his first microcomputer?",
-        "87f86d34-b201-4bfc-b0d8-4b671cb590e0": "2. Question 2 (Computer Science Context): What was the primary use of computers before the advent of microcomputers, as described in the passage? (Hint: Think about the difference between microcomputers and earlier models.)",
-        "6c4958a6-21cd-47ec-b311-7dff17b114d8": "Question 1 (Historical Context): In what year did the author begin programming, and what were some of the computers they used during that time?",
-        "afaca057-3512-4a20-a008-8f5fa452b33b": "Question 2 (Critical Thinking/Philosophy): The author initially planned to study philosophy in college but found it disappointing. Explain why the author felt this way about philosophy based on their experience in college, and how did this lead them to switch to AI as a field of study?",
-        "5f3601e0-73f6-44ad-8792-4c4d2356347a": "Question 1: In what programming language was Artificial Intelligence (AI) primarily associated with during the time the author was learning AI?",
-        "c989bf62-d2f4-454e-a9c2-a239308ba473": "Answer Options: Lisp, Pascal, PL/I, C++, Java",
-        "dca8b008-40b2-4ebd-9ee8-fd8902b9797c": "Question 1: In what prestigious university did the author attend for their graduate studies, and why was this particular institution significant to them?",
-        "ff154cf3-be52-48f7-935b-ce7a02b19f46": "Question 2: The author mentions that they realized AI, as it was practiced at the time, was a hoax during their first year of grad school. Can you explain what the author meant by this statement and provide an example of the type of AI they were referring to? Furthermore, why did the author believe there was an unbridgeable gap between what these programs could do and actually understanding natural language?",
-        "74319c17-a44e-4eea-9b6c-950ade639b22": "Question 1: In what year was Paul Graham's book, \"On Lisp,\" published?",
-        "da549622-d2a6-4175-bb5d-d7e0dd33b158": "Question 2: Discuss the fate of systems work as described by Paul Graham and provide an example of how this is evident in the context of his experience with Xerox Dandelions.",
-        "ad042fff-894f-4af0-8cee-72482d0ca554": "Question 1: In what year did the author visit Rich Draves at Carnegie Mellon University (CMU) and why was this visit significant for him?",
-        "4d8422bf-f196-49ed-9f21-e9ad449287fe": "Question 2: The author mentions that paintings don't become obsolete like software. Can you provide an example from the text where it is suggested that software becomes obsolete over time, and explain how this contrasts with the longevity of paintings?",
-        "465ab228-ed38-4b59-98a1-36727e753acf": "Question 1: In what department was the protagonist taking art classes at Harvard?",
-        "fceaeb28-ae08-46bb-9a06-f48f00738d71": "Answer Options: Computer Science, Philosophy, Literature, Art and Design",
-        "f95ff50b-1487-4355-ad4d-1cd119c86d13": "Question 1: Historical Context - In April 1990, the individual mentioned in this passage was able to graduate from his graduate program despite not having a dissertation written at the beginning of the month. Can you identify the quickest way he managed to write his dissertation and submit it before the deadline?",
-        "5b980281-1245-4799-8611-6a5c271a7aac": "2. Question 2: Personal Development - The individual in this passage decided to pursue an art degree after graduating from his graduate program. He applied to two art schools, one in the US (RISD) and one in Florence, Italy (Accademia di Belli Arti). However, he only attended RISD. Can you explain why he did not attend the Accademia di Belli Arti despite receiving an invitation for the entrance exam?",
-        "2fccc3a4-675e-41db-a165-a71572b54f56": "Question 1 (Fact-based): In what city did the protagonist attend RISD, and what program did they apply for?",
-        "2dd48d3e-9c6c-40a5-a56d-492ad4526e73": "Answer: Providence, BFA program",
-        "188f3825-6ab9-4e9c-a8fb-4d5244371d3a": "Question 1: In the passage, the author mentions that they attended an \"august institution\" and describes a pattern of disappointment. Can you identify this institution and explain the pattern of disappointment as described by the author?",
-        "150764a5-03fb-459a-9abb-9bb689e768cd": "2. Question 2: The author mentions that they started painting still lives at night during their time at the Accademia. What are some differences between painting people and painting still lives, according to the author's description in the passage?",
-        "d62a6945-926d-46ae-8866-e8b75b730acb": "Question 1 (Art Analysis): In the context of the passage, what is the difference between painting still lives and painting people according to the author?",
-        "0aa5058f-3aef-4120-99f9-e0326b749cd9": "Question 2 (Cognitive Psychology): According to the author, in everyday life, most visual perception is handled by low-level processes that tell the brain general information about objects without providing details like where the lightest and darkest points are. What is a feature of brains that this statement suggests? (Hint: Compare it with what would happen if you had to paint something.)",
-        "5a871a70-16c4-4774-af10-de1175bceb8d": "Question 1 (Art): In the passage, the author mentions that paintings can be more realistic than photographs in a strict information-theoretic sense. Can you explain what the author means by this statement and provide an example of how this could be achieved through painting?",
-        "14cdaf85-f15b-42f1-a110-8049f07a89f8": "2. Question 2 (Computer Science/Programming): The company Interleaf, mentioned in the passage, had a scripting language that was a dialect of Lisp. Can you describe what a dialect is in the context of programming languages and provide an example of another well-known programming language that could be considered a dialect? Furthermore, explain why Interleaf chose to make their scripting language a dialect of Lisp.",
-        "bdb83b22-f623-4e9b-af89-ee05ae44f2cc": "Question 1: (Historical Context) In what year did the author return to the United States from Florence, Italy after completing his first year at the Accademia?",
-        "387a5426-606c-4771-ba69-aabd8da37101": "Question 2: (Technological Context) What programming language was used by the company Interleaf for creating their software, and how does this language relate to Emacs? (Hint: The author mentions that it is a dialect of Lisp.)",
-        "dfb5e9e4-2fb5-44e1-ad94-d74f8be987f1": "Question 1: What significant event marked Paul Graham's departure from Interleaf, and how did this event impact his financial situation?",
-        "6def5f47-2816-4398-8684-d6a7bd493d9d": "Question 2: In what ways did Paul Graham learn valuable lessons about running a technology company during his time at Interleaf, and how did he apply these lessons in his future endeavors (Viaweb and Y Combinator)?",
-        "efbe9b83-78d9-403c-99df-fffe04d63c72": "Question 1: In what context did the author first learn the concept of \"the low end eats the high end\"? How did this concept influence his future ventures?",
-        "7b77a8a6-5898-42be-b80e-648b1ee91446": "Question 2: Explain the significance of a \"signature style\" in art, using an example to illustrate your answer. Discuss why some buyers might be willing to pay large sums for such work.",
-        "93ded55b-67ab-420f-99d3-8ad2c35cf826": "Question 1 (Art-related): In the context of the passage, what does a \"signature style\" represent in the world of art? Provide an example from the text to support your answer.",
-        "ad549e34-8f61-4b15-b948-4e0a156bd07c": "2. Question 2 (Narrative-related): The author mentions that they dropped out of RISD in 1993 and moved to New York City. What was the significant factor that led to this move, according to the passage?",
-        "2fceb63d-6e53-40f5-9b29-591b125b3957": "Question 1: Historical Context - \"In what year did the author move to New York City and start his career as a painter?\"",
-        "f8b51a4c-0158-4b91-9ace-e12cfcdb9cc4": "2. Question 2: Literary Analysis - \"Describe the author's relationship with Idelle Weber, and explain how she influenced his artistic journey in New York City.\"",
-        "0283ed82-11d5-4497-9764-73b6f18bef2f": "Question 1: Who was the author's painting teacher at Harvard and what art movement was she associated with?",
-        "1293534f-b267-4b9a-8a3f-0d705a4238fd": "Answer: Idelle Weber, Photorealism",
-        "54a0c8a6-94a8-4525-bb13-228403184221": "Question 1: In what year did the author and his partner start working on building software for online stores?",
-        "161fc6f2-5b30-408a-aa5e-c95652d4d6f5": "Answer: Summer of 1995",
-        "98edf637-1738-4a9d-b258-a01242d5bda4": "Question 1: In what operating system environment did Paul and Robert initially attempt to write software for building online stores in the summer of 1995?",
-        "3bd602b0-fa4a-48f0-b64f-a023a98633af": "Answer Options: Windows, Unix",
-        "3cc33f23-554f-4fad-8560-00f6886a8ba2": "Question 1: Historical Context - \"In what year did Viaweb, a pioneering web application company, first demonstrate its functional store builder that could be controlled through a browser? Please provide the exact date.\"",
-        "40b8bff7-3309-444c-a901-abb3245a95ac": "2. Question 2: Business Strategy - \"Explain the significance of the deal between the founders of Viaweb and Julian, Idelle's husband, in terms of its impact on the future model for startup funding, as described in the context information. Provide an example of a modern-day startup that follows this model.\"",
-        "e4dbaa40-c691-4e36-8b2b-1e3f459310b4": "Question 1: Historical Context - \"In what year did the author and his colleague start working on their software project, as mentioned in the context?\"",
-        "a10b07c1-fd5d-45f0-8656-d5ec4b64ba02": "2. Question 2: Software Development - \"What was unique about the software that the author and his colleagues were building, as described in the context?\" (Hint: Consider the features of the software and its impact.)",
-        "34b4f272-33f6-4693-9cce-6f182854b8e0": "Question 1 (Historical Context): In what year did the online store software developed by Robert, Trevor, and the author open for business?",
-        "517a8e36-6a63-4523-90e3-402a6203822d": "2. Question 2 (Comparative Analysis): Compare and contrast the internal workings of Robert's brain with that of Trevor's as described in the text. How do these differences reflect on their programming styles or approaches?",
-        "5adb8f6f-6fd3-4b33-911a-224a6a2e5d55": "Question 1 (Historical Context): In the given context, what was the main purpose of the software being developed and who were the key individuals involved in its creation?",
-        "aae4766f-e7c3-44c1-940e-a0e8d9bbb688": "2. Question 2 (Business Strategy): The creators of the software aimed to be the \"Microsoft Word\" of ecommerce software. What does this imply about their business strategy in terms of pricing and user experience? Also, explain an example of a decision they made that was beneficial for them but might have seemed humiliating at the time.",
-        "bf15c36c-df16-4727-8c95-58b4b53db2aa": "Question 1 (Historical Analysis): In the given context, the authors mention that they initially had no idea about business expenses and found $300 a month to be a significant amount. Can you explain why this might have been the case, considering their startup was in the retail sector during the late 90s?",
-        "15c58b65-6079-4aae-8a5d-a089fb0dd24b": "2. Question 2 (Critical Thinking): The authors state that growth rate is the ultimate test of a startup. They had around 70 stores at the end of 1996 and about 500 at the end of 1997. Explain why the authors initially thought the absolute number of users mattered more than the growth rate, and how their perspective changed over time regarding this aspect.",
-        "136d77cd-748f-475d-ada7-338ec210d6e3": "Question 1 (Historical Analysis): In what year did the company being discussed start with approximately 70 stores?",
-        "a1f79000-7f36-409a-be7c-8ce9a38aa9a6": "2. Question 2 (Critical Thinking and Business Strategy): Explain why the rapid growth rate of a startup, as opposed to the absolute number of users, is considered crucial for its long-term success. Provide examples from the text to support your answer.",
-        "1698d481-b256-4f26-8d26-e4b396f8395d": "Question 1 (Historical Event): In what year did Yahoo buy Viaweb, and why was it significant for the founders of Viaweb?",
-        "88944192-2591-47d8-871e-f63b77a50a6c": "Question 2 (Personal Experience/Reflection): How did Paul Graham feel after leaving Yahoo in the summer of 1999, and what were his plans for the future regarding painting?",
-        "ddfb08ac-f32e-4d41-b3b3-ca0d856ff3cd": "Question 1 (Historical Event): After being acquired by Yahoo, what company did the author work for before deciding to leave and pursue painting?",
-        "47d59130-7fae-4bdb-8f26-b34453f703a3": "2. Question 2 (Personal Experience/Reflection): The author mentions that they felt disconcertingly similar to their previous job at Interleaf while working at their new company. Can you explain why this might have been the case, based on the information provided in the context?",
-        "af229bb7-c185-4573-a82d-8968262c0c1b": "Question 1 (Literature Analysis): In the passage, the author decides to quit his job as a billionaire's assistant and pursue painting. Discuss the reasons he gives for this decision and the challenges he faces in his new pursuit. How does his experience reflect on the theme of ambition and change?",
-        "086f8736-1eea-4a1c-b521-c4129e1c61cd": "2. Question 2 (Geography & Urban Studies): The author mentions that he is looking for a neighborhood in New York similar to Cambridge. He asks various real estate agents about this. What do you think the author means by \"the Cambridge of New York\"? Why might he be seeking such a place?",
-        "520aa14a-1551-4076-896c-1e7676694980": "Question 1: In what city did the author decide to move to start his new web app company, and why did he choose this city?",
-        "22b624a3-a6a5-4222-af27-d8303d2c97c5": "Question 2: What innovative approach did the author take when creating a new type of still life painting, and how does it differ from traditional methods?",
-        "d4f01cb7-28cb-4efb-a61f-ad9a535f47b3": "Question 1: Who did the speaker initially try to recruit to work on his new idea, and why was he unsuccessful in doing so?",
-        "b5fcfb8c-173f-46ec-9c4f-c07bbd637907": "Question 2: What was the name of the company that the speaker eventually started based on his idea, and what was the original name for the kind of company Viaweb represented before it was replaced by another term?",
-        "a3cd3472-83d8-49be-99bc-fe2d3820b7a7": "Question 1: In what year did the protagonist start working on the application builder for his company, which was initially going to be called Aspra?",
-        "f15c67f0-dd0e-4b7f-9828-854cabc6b2f0": "2. Question 2: What was the name of the new dialect of Lisp that the protagonist and Dan started working on in a house in Cambridge after they decided not to run the company anymore? (Hint: It was named after a Platonic form of Lisp.)",
-        "a9e32bc0-ef3d-4dc6-9053-64d6b4bd6dc2": "Question 1: Historical Context - \"In what year did Paul Graham realize the potential of publishing essays online, and how long had he been involved with building the infrastructure of the web prior to this realization?\"",
-        "7a78601a-f4d2-4257-b99a-eb62c278e3a9": "2. Question 2: Implication Analysis - \"Explain the main difference between publishing essays in the print era versus the digital age, as described by Paul Graham.\"",
-        "15301859-5475-4f69-a368-01a03708b4db": "Question 1: In what historical context did the author begin publishing essays online, and how did this change impact their future work?",
-        "3f225aae-41a5-4ebe-b122-d2def11e2f06": "2. Question 2: The author mentions that they are drawn to working on things that aren't prestigious. According to the text, why does the author believe this is a good sign for their work, and what potential dangers might they encounter due to impure motives?",
-        "29138193-8d8a-4346-a9ec-94e82e5cf89c": "Question 1 (Historical Context): Who was the author of the book \"Hackers & Painters\" and what was one of the essays in it that gave the book its title?",
-        "79c657b8-2cbc-4c03-9634-43bae45cfaf3": "2. Question 2 (Sociological Context): In what way did Jessica Livingston's experience at a Boston investment bank influence her decision to compile a book, and what type of interviews did she conduct for this book?",
-        "dde575ce-91b1-45e8-840c-f350e7211963": "Question 1 (Historical Event): Who organized the big party at the house mentioned in the text, and what was the unique concept behind this party?",
-        "b08a9e39-a806-4783-a02f-993c399003e2": "2. Question 2 (Professional Background): What was Jessica Livingston's professional role before she started writing a book of interviews with startup founders, and what significant event led her to look for a new job? (Hint: It involves financial problems at her previous workplace.)",
-        "44d9d78e-0ace-436a-b2f8-5c7bb667ae0e": "Question 1: In what setting did the author initially discuss the idea of starting a startup, and who were the intended audience?",
-        "6db5f1ec-5439-4876-9265-9680b5cf0863": "Answer: The author discussed the idea of starting a startup in a talk given to the Harvard Computer Society, an undergraduate computer club.",
-        "fa32d1ab-c96c-4c58-9eb4-0f2e5dd12948": "Question 1: In what city and year did the founders of Y Combinator start their investment firm?",
-        "45154a96-bc28-47e2-8283-c2b8b5644e30": "Answer: Boston, 2005",
-        "eb78a3da-60b8-481e-9ff7-b2f41df2b4f9": "Question 1: Explain the initial motivation behind the creation of Y Combinator and how it differed from traditional venture capital firms, as described in the text.",
-        "e7ca929b-0bdf-4153-8732-d9f0911ef97c": "Question 2: Discuss the unique aspect of Y Combinator's approach to investing, particularly the batch model, and its impact on the startups funded by YC.",
-        "a5c3b49d-fda7-4cf1-b4eb-c6d28fbe14d6": "Question 1: Who was the owner of the building used as the headquarters for the Summer Founders Program, and where was this building located?",
-        "1bf748ca-eac4-453c-97d3-73328bc91a40": "Question 2: In what ways were the participants of the first batch of the Summer Founders Program notable or significant in the tech industry after their participation in the program? (Hint: Some of them went on to found well-known companies.)",
-        "168ad184-2d9d-4101-83a3-531354bf0121": "Question 1 (Historical Context): Who were some of the notable individuals that participated in the first batch of Y Combinator's Summer Founders Program? Provide examples of their subsequent achievements.",
-        "b02e6e7b-ae6c-467a-94fd-573b4bd018b0": "Answer: The first batch of Y Combinator's Summer Founders Program included Reddit, Justin Kan and Emmett Shear (who founded Twitch), Aaron Swartz (who helped write the RSS spec and became a martyr for open access), and Sam Altman (who later became the second president of YC).",
-        "55d76910-7683-4001-a3c2-7309d307c9c3": "Question 1 (Historical Context): Discuss the initial purpose and evolution of Y Combinator, focusing on how it transitioned from a part-time project for its founder to a full-time job. Explain how this change affected the community and the startups associated with it.",
-        "b1918d5d-4dca-49ce-be2e-c72dd3cf837d": "2. Question 2 (Technology and Innovation): Describe the creation and development of Hacker News, including its original name and purpose. Analyze the impact of Hacker News on Y Combinator and identify the main source of stress for its founder related to this platform.",
-        "1598d171-81cc-43ee-a8cc-d90f8a781182": "Question 1 (Analysis and Interpretation): In the given context, the author mentions that Hacker News (HN) was a significant source of stress for him despite being beneficial for YC. Explain why the author found HN stressful and how it affected his work at YC.",
-        "a2efefcd-a016-42bd-82c8-6218a9f1c29b": "2. Question 2 (Comparison and Contrast): The author describes YC as different from other kinds of work he has done. Compare and contrast the nature of work in YC with the author's previous work, focusing on the unique aspects of YC that made it distinct. Also, discuss the challenges faced by the author in his role at YC that were not present in his previous work.",
-        "046feb3e-f2e6-46cc-8a8c-5ac80d2851b1": "Question 1 (Analysis and Interpretation): In the passage, the author mentions that Y Combinator was different from other work he had done because \"the problems came to me\". What does this suggest about the nature of the author's role at Y Combinator?",
-        "dedef7d4-586d-449f-99bd-553edf87bdcf": "2. Question 2 (Critical Thinking and Evaluation): The author recalls Robert Morris offering him unsolicited advice, saying \"You should make sure Y Combinator isn't the last cool thing you do.\" What could be possible reasons for Robert Morris to give this advice, and what might it imply about the author's future plans or current situation?",
-        "0e1bad19-f0af-4a47-849e-3680e127e95f": "Question 1: Who did Rtm advise and what was his advice regarding it? (Historical Event)",
-        "9ce9910e-bfd6-47ec-b80d-151ca95aef4c": "2. Question 2: Why did the protagonist decide to hand over Y Combinator to someone else in the summer of 2012? (Character Analysis/Motivation)",
-        "8a3de12a-eb2c-4664-be84-b936d3af9680": "Question 1: Who initially declined the offer to become President of YC and later agreed in October 2013?",
-        "e3767383-65a8-4590-80de-10e79fad8ed4": "Answer Options: Sam Altman, Jessica Livingston, Robert Morris, Trevor Blackwell",
-        "d60201da-c327-435d-ad50-0419f4ce3079": "Question 1: In what year did the individual mentioned in the text start painting again after leaving Y Combinator?",
-        "9ab6a304-c624-4b6e-8439-60ee43aa83f7": "Question 2: What is unique about Lisp as a programming language, according to the text? (Hint: Consider the history and purpose of its creation.)",
-        "fce3f3ed-edf6-41ff-a6c7-b11595cde802": "Question 1: Who invented or discovered Lisp, and what was its original intended purpose?",
-        "839240ce-84ef-4258-8f27-88806b504906": "Question 2: In what year did McCarthy's Lisp only interpret Lisp expressions, and why were additional features needed to be added to it later on? (Hint: The additions weren't defined using McCarthy's original axiomatic approach.)",
-        "c8edb790-bdc4-4ed7-b0e2-a1b778f5f560": "Question 1: Historical Context - \"In what year did the development of Bel Lisp begin, and how long did it take for its completion?\"",
-        "04f88510-ad5b-4f79-a9db-670248ffb3a0": "2. Question 2: Programming Concepts - \"Explain the concept of an 'interpreter written in itself' as described in the context, and discuss the challenges faced by the author while implementing this idea.\"",
-        "a059c6cc-97fc-4610-9f91-32a48910ed0a": "Question 1: Historical Context - \"Discuss the development and completion of 'Bel', a self-interpreting language, as described by the author. Where was most of this work done, and how long did it take from start to finish?\"",
-        "8595ce22-3039-43a2-806f-2217975f83cc": "2. Question 2: Programming Challenges - \"Explain the difficulties faced while working on 'Bel' and provide an example of a problem that was solved during a leisure activity, such as watching children play in tide pools.\"",
-        "38d83421-a721-481d-bb6c-522e2648c25d": "Question 1 (Literature and Personal Experience): In what country did the author move with his family in the summer of 2016, and why did they make this decision?",
-        "4b51b999-6ad2-40fc-a767-ae5b254a8eb2": "2. Question 2 (Computer Science and Programming): The author mentions that Bel is a spec rather than an implementation, similar to McCarthy's original Lisp. Can you explain what is meant by a \"spec\" in the context of programming, and how does it differ from an implementation?",
-        "9e2f9f9e-21fe-42ce-8ad3-001dfd4bb946": "Question 1 (Historical Context): In the context of computer evolution, the author mentions that they skipped a step in the development of computers. Can you identify what step was skipped and describe its significance?",
-        "0d718edd-a58f-4e67-b7eb-e5bcbae3529f": "2. Question 2 (Cultural Context): The author lived at Piazza San Felice 4 in Florence, Italy. Describe the route the author took to reach the Accademia from their residence, mentioning some of the significant landmarks along the way.",
-        "1f3f49e5-3833-4997-8a70-1f23ca22c905": "Question 1: In the 1990s, what was the impact of the exponential growth in the power of commodity processors on high-end, special-purpose hardware and software companies?",
-        "2ffad3a7-4cd0-4cde-92a3-35b6f67ac8b8": "Question 2: In the context of online publishing, how does putting something online differ from publishing it online? (Hint: Consider the primary version and its importance.)",
-        "4d361b10-47ee-41ed-9862-a3ea0f5507af": "Question 1: In what ways does the author suggest that customs and traditions can continue to constrain individuals even after the original reasons for their existence have disappeared? Provide examples from the text to support your answer.",
-        "80fce42d-3e06-423f-9fe7-88e3c5b69152": "2. Question 2: The author mentions two reasons for choosing the color orange for Y Combinator's branding. What are these reasons, and how do they reflect on the author's perspective towards venture capital practices at that time? Also, explain why the author might have chosen this color to differentiate themselves from other VCs.",
-        "cb220cac-c196-4105-9640-5b2b6a6eb0ae": "Question 1: In what unique way did Y Combinator rename itself, and why was this change significant? (Historical Context)",
-        "ab2ca478-8b6f-4058-a769-29d4fc1f7491": "2. Question 2: Explain the reasoning behind Paul Graham's choice of orange as the color for Y Combinator's branding, and how it contrasted with the colors used by other Venture Capital firms in 2005. (Critical Thinking and Analysis)",
-        "8256c449-bef0-4da8-b4de-b67947a5d765": "Question 1 (Historical Context): Discuss the perspective of the author regarding the term \"deal flow\" and how Y Combinator aims to challenge this notion. Explain why the author finds this term problematic according to the text.",
-        "ca576502-344d-4768-96f5-5c6d84850ecb": "2. Question 2 (Critical Thinking & Analysis): The author mentions a unique challenge faced when both writing essays and running a forum. Identify this challenge and explain how it creates a disastrous situation for the author. Also, suggest a potential solution to mitigate this problem."
+        "5abc3be7-bae0-442c-ad25-37de4cf273ed": "Question 1 (Historical Context): In what year did the narrator first start programming? Explain the environment and machine he used during that time.",
+        "ce0a59b0-ac87-4bd5-b008-6dde61907ebf": "Question 2 (Critical Thinking/Analysis): The narrator mentions that his early programs on the IBM 1401 were not very useful due to a lack of data or interesting mathematical calculations. Can you suggest a scenario where such a machine could have been more productive for him, given the limitations mentioned? Justify your answer with examples from the text.",
+        "8557b956-9e44-4569-82eb-3dc54c024b7b": "Question 1 (Historical Context): In what year did the speaker purchase his first microcomputer?",
+        "e963d882-2d72-4d78-b2ba-c950e92674b0": "2. Question 2 (Computing Context): What was the primary use of computers before the advent of microcomputers, as described in the passage? (Multiple Choice: Data storage, Time-sharing, Programming, None of the above)",
+        "076eb60d-05a3-4022-b0be-52c696fbd25a": "Question 1: In what year did the individual mentioned start programming, and on what computer model did they begin?",
+        "2ec6410f-f752-4348-99ce-26038bf75424": "Question 2: Despite initially intending to study philosophy in college, the individual switched to AI instead. Can you name two factors that influenced this decision, as described in the text?",
+        "fcee596a-6096-46a4-a528-bea95362eb41": "Question 1: In what programming language was Artificial Intelligence (AI) primarily associated with during the time the author was learning AI?",
+        "91084e34-2da3-4a1f-9980-1357519fb598": "Answer Options: Lisp, Pascal, PL/I, C++, Java",
+        "e731dd9a-62a2-4e33-88f6-f6e0d1a539f9": "Question 1: In what prestigious university did the author attend for their graduate studies, and why was this particular institution significant to them?",
+        "68bca25a-f7a7-47a1-ad40-525f33fdec60": "Question 2: The author mentions a specific type of parser they used in their SHRDLU clone. Who invented this type of parser, and where was it originally developed? Furthermore, explain the author's critique of AI as practiced at the time, and how did this realization impact their academic path?",
+        "56e2b3b6-1a02-41f8-aabc-bdf6557a2b20": "Question 1: In what year was Paul Graham's book, \"On Lisp,\" published?",
+        "81666c12-136e-4c07-9dbe-be83345db290": "Question 2: Discuss the fate of systems work as described by Paul Graham in the passage. How does he feel about it and why? Provide examples from the text to support your answer.",
+        "3322c6d3-9904-4edc-8257-b38e20e8555c": "Question 1 (Historical Context): In what year did the author visit Rich Draves at Carnegie Mellon University and have a significant realization about art?",
+        "9ca770e4-2970-437b-b3dc-d085f809a014": "Question 2 (Personal Journey): The author mentions that they had always liked looking at paintings, but never imagined they could make them. What was their initial reaction when they realized it was possible for them to create art? (Possible answers: Surprised, Excited, Astonished, etc.)",
+        "edbf0def-d5db-404e-bff8-92098c4046b6": "Question 1: In what department at Harvard was the protagonist taking art classes, and who was their advisor?",
+        "54b5ab06-2b0b-4f3b-baef-83a00d81aac8": "Answer: Graduate students could take classes in any department at Harvard, and the protagonist's advisor was Tom Cheatham.",
+        "a149ea00-7c16-4196-8439-daca02b67947": "Question 1: Historical Context - In April 1990, the individual in our story was able to graduate from his graduate program despite not having a single word of his dissertation written at that time. Can you identify the quick decision he made that allowed him to write and submit his dissertation within the deadline?",
+        "79e7bb60-d734-49e5-ad59-307a812cb36d": "2. Question 2: Personal Development - The individual in our story decided to pursue an art degree after graduating from his graduate program. He applied to two art schools, one being RISD in Providence, USA. However, he also applied to another school, the Accademia di Belli Arti in Florence, Italy. Despite not getting a response from the Accademia, he still chose to attend RISD. Can you explain why this decision might have been significant for his future and what factors could have influenced his choice?",
+        "bba26bb6-7b02-49a2-9381-4c048beb74de": "Question 1 (Fact-based): In which city did the protagonist attend college after not hearing back from the Accademia?",
+        "75a4ae5a-e28e-4a22-a600-023aff494557": "Answer: Providence",
+        "0b9d4356-a1d8-4140-99d8-4541c7d95cc5": "Question 1: In the context of the author's experience, which prestigious institution did they attend and what was their observation about the dynamics between students and faculty there?",
+        "7f552054-a428-4f3f-96a2-9805ecec8d53": "Question 2: During the author's time at the Accademia, what unusual activity did the model engaged in to make a living, and how did this impact the author's painting process?",
+        "4174318a-f693-47c9-9ce3-42da1a41856d": "Question 1 (Art Techniques and Processes): In the context of the passage, what method does the character use when creating still life paintings? Is it more similar to copying pixel by pixel from what she's seeing or modifying a generic person to match the specific subject? Explain your answer with reference to the text.",
+        "86f710ab-c074-4196-9173-dc6304d32f53": "2. Question 2 (Cognitive Psychology and Perception): According to the passage, how does our brain process visual information in everyday life compared to when we are required to observe something closely, such as for painting a still life? Provide specific examples from the text to support your answer.",
+        "8928f15e-c440-4b85-ab0b-6952137b24b4": "Question 1: In the context of painting, the author mentions that they can make paintings more realistic than photographs not just metaphorically but in a strict information-theoretic sense. Can you explain how this might be achieved and what the author means by \"information-theoretic\"?",
+        "c7cda7b2-94dc-468b-ad9e-fbb622053171": "2. Question 2: The author worked at a company called Interleaf, which made software for creating documents. This software had a scripting language that was a dialect of Lisp. Can you describe what a scripting language is in the context of software development and why Interleaf chose to make their scripting language a dialect of Lisp?",
+        "fe52bc33-0a97-485b-8ae5-1c1ffe40cc3e": "Question 1: (Historical Context) In what year did the author return to the United States from Florence, Italy after completing his first year at the Accademia?",
+        "2000c14c-9ff9-4159-a7b1-b36f53be9dcf": "2. Question 2: (Technological Context) What programming language was used by the company Interleaf for creating their software, and how does it compare to Microsoft Word in terms of functionality? (Hint: The author mentions that Interleaf's software had a scripting language which was a dialect of Lisp.)",
+        "eb39bd93-12bb-4b1d-837d-2c6530946a6d": "Question 1: (Historical Context) In what city did the author work at Interleaf and what was his daily budget while living there?",
+        "0304d5c1-3ce9-4bdc-a1be-8868226ecb22": "Answer: Florence, $7 a day",
+        "d48cfece-885d-4990-94dd-7e8640870628": "Question 1: In what context did the author first learn the concept of \"the low end eats the high end\"? How did this concept influence his future ventures?",
+        "ae95179f-d33f-4ba1-abc2-64635750ce1c": "Question 2: What is a \"schtick\" in show business, and how does it relate to the concept of a signature style in art, as described by the author? Provide an example of an artist known for their distinctive signature style.",
+        "54c66723-f9a9-46c0-9b2a-6a3dd6318f04": "Question 1 (Art and Style): In the context of art, what does a \"signature style\" represent and why is it significant for artists and buyers? Provide an example of an artist known for their signature style.",
+        "0df5a512-acaa-44e2-b62b-8db60ee0b8ac": "Question 2 (Personal Experience and Migration): The author mentions moving from Providence to New York City. Why did the author decide to move to New York City, according to the text? Also, what was the favor that Nancy Parmet did for the author regarding this move?",
+        "8cb4f5a3-5180-461a-a6b7-2ea7875807b5": "Question 1: Historical Context - \"In what year did the author move to New York City and start his career as a painter?\"",
+        "de3b1acc-f35b-4927-8382-5b44421f89a3": "2. Question 2: Literary Analysis - \"Discuss the significance of the author's decision to write another book on Lisp, as described in the context.\"",
+        "1d5b8198-76a5-4438-a92a-2ae0d2a93775": "Question 1: Who was the author's painting teacher at Harvard, and what art movement was she associated with?",
+        "7d3641fe-185e-4e94-8e25-70b6abcc1bfc": "Answer: Idelle Weber, Photorealism",
+        "8495f8d4-6ff0-4383-bfed-152b21156eda": "Question 1: In what year did the author and his partner start working on building software for online stores?",
+        "04162918-1e31-48b9-8f9a-78d88434c9e6": "Answer: [Summer of 1995]",
+        "4b039711-dfcb-4960-b979-6bfba8cf4023": "Question 1: In what operating system environment did Paul and Robert initially attempt to write software for building online stores in the summer of 1995?",
+        "cff209c5-3b9f-42de-bd84-70d5a16fb6a5": "Answer Options: Windows, Unix",
+        "54f2aa78-5ca7-40b0-9ef9-b8ee80eab92a": "Question 1: Historical Context - \"In what year was Viaweb, a pioneering web application company, initially founded? Explain the significance of this event in the history of software development.\"",
+        "04ad4859-619c-481b-a5cd-6565f96e36af": "2. Question 2: Business and Entrepreneurship - \"Discuss the initial funding source for Viaweb and the terms of this investment. How did this early investment model influence the creation of Y Combinator's investment structure?\"",
+        "c4768bcd-adfc-464e-b921-51f999dad716": "Question 1: Historical Context - \"In what year did the author and his colleague start working on their software project, as mentioned in the context?\"",
+        "1d9a583d-924f-4acb-9f06-f4fa3968ef3d": "2. Question 2: Technical Analysis - \"Describe the unique feature of the software built by the author and his colleagues that made a store running from a bedroom look more legitimate than a big company.\" (Hint: Look for clues about the software's ability to create pages with high production values.)",
+        "00b44444-189b-4bbe-bced-4d2619c09b86": "Question 1 (Historical Context): In what year did the online store software developed by Robert, Trevor, and the author open for business?",
+        "3f229154-2806-46db-a92b-8eeb1fff75af": "2. Question 2 (Comparative Analysis): Compare and contrast the internal workings of Robert's brain with that of Trevor's as described in the text. How might these differences have influenced their roles in developing the online store software?",
+        "b752fa82-eafc-4aa6-a735-12652fdf4c4e": "Question 1 (Analysis and Interpretation): In the given context, what was the primary purpose of Viaweb software, as described by the author?",
+        "6c817233-dec7-4594-9788-3bd9e752fe7b": "2. Question 2 (Critical Thinking and Comparison): The author mentions that they were determined to make Viaweb the \"Microsoft Word, not the Interleaf.\" What does this comparison imply about their competitive strategy for Viaweb?",
+        "0f87d3d0-191a-4f92-bcd1-175ec0a673a4": "Question 1: In the context of the startup described, what was the initial perception of the founders regarding the cost of $300 per month for something?",
+        "e8f0fb55-26a6-44d4-9a52-a9aa891f61af": "2. Question 2: The authors mention that they learned a lot about retail from an unconventional method. What was this method and why did it help them understand their software better? (Hint: It involved building stores for users.)",
+        "35185f22-f9c7-4dc6-abb3-cb8ba6c9d0e4": "Question 1 (Historical Analysis): In what year did the company being discussed start with approximately 70 stores?",
+        "72f2f080-398d-4792-b3a6-3141543022c4": "2. Question 2 (Critical Thinking and Business Strategy): Explain why the rapid growth rate of a startup, such as the one described in the text, is considered crucial for its success, even if it means hiring more people than necessary during an economic bubble. Discuss the potential consequences of this strategy on the company's financial stability and independence.",
+        "b418a892-3108-4ffb-9fec-0ff72808d0d0": "Question 1 (Historical Event): In what year did Yahoo buy Viaweb, and why was it significant for the founders of Viaweb?",
+        "99541adc-59aa-4d17-b9da-5fd0c94837ea": "Question 2 (Personal Experience/Reflection): How did Paul Graham feel after leaving Yahoo in the summer of 1999, and what were his plans for the future regarding painting?",
+        "f8645969-de6e-4f36-8db8-7b3985b608e4": "Question 1: Historical Context - \"In what year did the speaker leave Yahoo after their acquisition by Interleaf?\"",
+        "9218b4cf-2582-4194-96c1-072a419b61af": "2. Question 2: Personal Reflection - \"Why did the speaker decide to leave their job at Yahoo, and what were their plans for the future?\"",
+        "78b4cb80-a854-4cde-aaff-08e1bb6cf9f6": "Question 1 (Literature Analysis): In the passage, the author decides to quit his job and start painting. Discuss the reasons he gives for leaving his previous occupation and the challenges he faces while trying to establish himself as a painter in a new city. How does his experience reflect on the theme of ambition and the pursuit of one's passion?",
+        "7f55612b-76f8-4285-b71f-9a09a95fad0c": "2. Question 2 (Geography & Urban Studies): The author mentions that he is looking for a neighborhood in New York City that resembles Cambridge. Based on your knowledge, suggest a few neighborhoods in New York City that might be considered similar to Cambridge and explain why they could fit this description.",
+        "2199ff06-834d-4208-be44-a792f6be0c31": "Question 1: In what city did the author decide to move to start his new company based on his idea about web applications?",
+        "bcd75957-1598-4213-a64c-807f385a5553": "Answer: Cambridge (or more specifically, Cambridge, Massachusetts)",
+        "99cb55af-65c2-4eac-be9e-1ef13b022502": "Question 1: Who did the speaker initially try to recruit to work on his new idea, and why was he unable to do so?",
+        "37f2840e-26a4-4c1d-b9f8-1958d95a2aeb": "Question 2: What was the name of the company that the speaker eventually started based on his idea, and what was the original name for the kind of company Viaweb represented before it was replaced by another term?",
+        "c17c311f-5ef5-4741-a9b2-92ac59b56875": "Question 1: In what year did the protagonist start working on the application builder for his company, which was initially named Aspra?",
+        "672f79bf-c29f-43da-aac6-f4503381da53": "2. Question 2: What was the name of the new dialect of Lisp that the protagonist and Dan started working on in a house in Cambridge after they decided to abandon the idea of running a big company? (Hint: It is mentioned as Arc in the text.)",
+        "8438ded8-8e18-45fe-b606-79e0a710ad2f": "Question 1: Historical Context - \"In what year did Paul Graham realize the potential of publishing essays online, and how long had he been involved with building the infrastructure of the web before this realization?\"",
+        "e2055f9a-575c-4ca1-8f2c-8457c541e97d": "2. Question 2: Literary Analysis - \"Explain the significance of the 'narrow channel to readers' in the print era as described by Paul Graham, and discuss the impact of the internet on this traditional method of publishing essays.\"",
+        "f20c7187-cb96-44bb-b834-08fd7cf5119a": "Question 1: In what ways did the protagonist find online essay publishing beneficial for his career and work? (Answer could include points such as discovering new opportunities, finding a niche, or expressing ideas freely.)",
+        "172bc797-c4ab-4607-b4b4-9a7f02de7a65": "Question 2: Why does the author suggest that working on things that are not prestigious can be advantageous? (Answer could include points such as less competition, potential for discovery of something real, and avoiding impure motives driven by the desire to impress people.)",
+        "58baf11a-3801-44f3-899a-101377b71456": "Question 1 (Historical Context): Who was the author of the book \"Hackers & Painters\" and what was one of the essays in it that gave the book its title?",
+        "1f14c7e0-0a6e-4445-adb5-fd424a465a77": "2. Question 2 (Sociological Context): In what profession was Jessica Livingston initially working before she decided to compile a book of interviews with startup founders, and how did her experiences influence her decision to write this book?",
+        "11bba3c6-4f59-41ac-acc5-a63326290af6": "Question 1 (Historical Event): Who organized the big party at the house mentioned in the text, and what was the unique concept behind this party?",
+        "a70de1e9-44cb-44e4-bdc7-24f06d67af30": "2. Question 2 (Professional Background): What was Jessica Livingston's professional role before she started working on her book of interviews with startup founders, and what industry did she work in?",
+        "5e1c66e8-5154-49ed-b99f-5c929a16da6f": "Question 1: In what setting did the author initially discuss the idea of starting a startup, and who were the intended audience?",
+        "f374c7d4-c6c6-4561-b4d5-6df88c316937": "Answer: The author discussed the idea of starting a startup in a talk given to the Harvard Computer Society, an undergraduate computer club.",
+        "a5113599-a569-4417-b36b-e05f0a079a21": "Question 1: In what city and year did the founders of Y Combinator start their investment firm?",
+        "dcaade2f-e854-4017-a55b-510478e790e6": "Question 2: Initially, what were the two words that didn't typically go together in the context of their investment firm, and how did they differ from traditional VC firms and individual angels in terms of helping founders?",
+        "1374a2b1-68f8-41eb-a01f-4bf5a83b5c5d": "Question 1: Explain the initial motivation behind the creation of Y Combinator and how it differed from traditional venture capital firms, as described in the text.",
+        "74b6aac5-b6d8-40ad-ab3f-d8a3bc19dcc1": "Question 2: Discuss the unique aspect of Y Combinator's approach to investing, particularly the batch model, and its impact on the startups funded by the program, as mentioned in the context.",
+        "b02e3e5c-6e92-4f53-8303-fc8a7d92b6fb": "Question 1: Who was the owner of the building used as the headquarters for the Summer Founders Program, and where was this building located?",
+        "ed23581f-8fb6-4b48-9af8-b7ce171a0ab4": "Question 2: Discuss the characteristics that the first batch of startups funded through the Summer Founders Program shared, and provide examples of at least two successful ventures from this group. Also, explain the investment deal structure for these startups in terms of funding and equity.",
+        "392b68ba-c8f4-4439-99fd-67b7ac2dd8cb": "Question 1: Startup Funding and Scale",
+        "0bceddbf-6890-4f8b-997d-3826509e96a4": "- In the given context, what was the initial investment made by Y Combinator per founder for the Summer Founders Program?",
+        "5f64230e-afdc-4848-abcf-11b630ab17ad": "Question 1 (Historical Context): In what year did Paul Graham and Robert start working on a new version of Arc, and what was this new version of Arc primarily used for?",
+        "df5e14e7-10ae-4f76-a3fc-35083950b7a5": "Question 2 (Critical Thinking/Analysis): Explain the analogy Paul Graham uses to describe his workload as he grew Y Combinator, and how it relates to running a marathon with an ill-fitting shoe. What does the \"blister from an ill-fitting shoe\" represent in this context?",
+        "0654680c-5f48-4e89-93ee-c5963b98c72c": "Question 1: Analysis and Interpretation: Discuss the author's perspective on the role of Hacker News (HN) in his work at YC, as described in the passage. What does he mean by stating that HN was a source of stress and a \"mistake,\" despite it being beneficial for YC?",
+        "2e0811a1-552e-461f-a9db-e31cc26c7fee": "2. Question 2: Comparative Analysis: Compare and contrast the nature of work at YC with other kinds of work the author has done, as mentioned in the passage. What unique aspects of YC's work make it different from other types of work, according to the author? Additionally, discuss any challenges or dislikes the author faced while working at YC that were not present in his other work.",
+        "5b96ca31-cf2f-48d2-8193-01b02804e4b6": "Question 1 (Analysis and Interpretation): In the passage, the author mentions that Y Combinator was different from other work he had done because \"the problems came to me\". What does this suggest about the nature of the work at Y Combinator? How might this be beneficial or challenging for someone in this role?",
+        "4f3fac07-24f7-490b-9b31-2eff34db82cc": "2. Question 2 (Critical Thinking and Evaluation): Robert Morris offered unsolicited advice to the author, stating \"You should make sure Y Combinator isn't the last cool thing you do.\" Why might Robert Morris have given this advice, and what implications could it have for the author's future career decisions?",
+        "14c3f080-31ea-4296-ac90-3ea82c164e47": "Question 1: Who did Rtm advise and what was the advice he gave? (Historical Event)",
+        "5ee59565-b07f-42cd-8313-10acc1b271af": "2. Question 2: Why did the protagonist decide to hand over Y Combinator to someone else in the summer of 2012? (Cause and Effect)",
+        "7061b27f-1b61-4469-adee-2e2185252ec5": "Question 1: Who initially declined the offer to become the president of YC and later agreed in October 2013? Why did they initially decline and later agree?",
+        "0a0a7033-f650-401c-b395-2fe84fca2966": "Question 2: What significant event occurred in the life of the person mentioned in the text, and how did it affect their involvement with YC?",
+        "6e12304e-6e99-4dfb-be4a-c709f9c91f60": "Question 1: In what year did the individual mentioned in the text start painting again after leaving Y Combinator?",
+        "47dcefa9-fc78-49fb-b7bb-315cfe5197ed": "Question 2: What is unique about Lisp as a programming language, according to the text? (Hint: Consider the history and purpose of its creation.)",
+        "13d5e5fd-f1b7-4515-8353-2fa9ab075d16": "Question 1 (Historical Context): Who invented or discovered Lisp, and what was its original intended purpose?",
+        "7e67de87-c73a-4ede-9c58-ba7dcb739cd6": "2. Question 2 (Programming Concepts): Explain the unique characteristic of Lisp that sets it apart from other programming languages, and discuss why this characteristic attracted the author in college, despite not fully understanding it at the time.",
+        "d81eae4d-dec8-4635-9b1f-bc6a55cf09cd": "Question 1: Discuss the historical significance of John McCarthy's Lisp and the challenges faced during its development, particularly in relation to testing more complicated interpreters at the time.",
+        "fe291cb8-7fb6-4ba7-b4ea-a89f876d3988": "2. Question 2: Explain the concept of an \"interpreter written in itself\" as used by the author in the context of developing Bel, a new Lisp language. Discuss the technical challenges and solutions employed to make this work, including the use of \"hacks\". Also, discuss the impact of these challenges on the readability and maintainability of the code during development.",
+        "960a1c03-adcf-4e3f-9e6c-59a9db5713c2": "Question 1: Historical Context - \"Discuss the development and completion of 'Bel', a self-interpreting language, as described by the author. Where was most of this work done, and how long did it take from start to finish?\"",
+        "4af60d36-7df7-4bef-bf4c-484a754fb58f": "2. Question 2: Programming Challenges - \"Explain the difficulties faced while working on 'Bel' and provide an example of a problem that was solved during a leisure activity such as watching children play in tide pools.\"",
+        "c7698590-da78-41bf-b019-2450d515ca5f": "Question 1 (Literature and Personal Experience): In what country did the author move with his family in the summer of 2016, and why did they make this decision?",
+        "dc8657fb-e149-4073-9725-a24d92bf7ea4": "2. Question 2 (Computer Science and Programming): Can you explain the unique characteristic of Bel, the spec expressed as code, that sets it apart from McCarthy's original Lisp? Also, what was the year when Bel was finally completed?",
+        "3c64ba97-7ec7-402c-9958-b90a5f0d215f": "Question 1 (Historical Context): In the context of computer evolution, the author mentions that they skipped a step in the development of computers. Can you identify what type of computer systems were used before microcomputers in this person's experience?",
+        "3cbc6eef-40a5-4a2c-bab5-05b97b1fff38": "2. Question 2 (Cultural Context): The author lived at Piazza San Felice 4 in Florence, Italy. Describe the route the author would take to reach the Accademia from their residence, mentioning some of the significant landmarks along the way.",
+        "fde28bce-60d9-4923-8c72-448a271d57cb": "Question 1: In the 1990s, what was the impact of the exponential growth in commodity processors on high-end, special-purpose hardware and software companies? (History/Technology)",
+        "48f4ffaf-de87-40f5-8298-08dc4b1ec59b": "2. Question 2: In the context of the art world, how are money and coolness related? Explain with reference to the statement that anything expensive comes to be seen as cool. (Sociology/Art)",
+        "761598a1-ea05-41e6-9c4e-ffcb08429307": "Question 1: In what ways does the author suggest that customs and traditions can continue to constrain individuals even after the original reasons for their existence have disappeared? Provide examples from the text to support your answer.",
+        "d339f1b4-0437-4d36-b6ce-b454d1d05368": "2. Question 2: The author mentions two reasons for choosing the color orange for Y Combinator's branding. What are these reasons, and how do they reflect on the author's perspective towards venture capital practices at that time? Additionally, what inference can be made about the colors commonly used by VCs in 2005 based on this choice of color?",
+        "dadbd5aa-731e-4458-a5bb-d6929aa34fec": "Question 1: In what unique way did Y Combinator rename itself, and why was this change significant? (Historical Context)",
+        "c4d40f9f-2d2d-4b0a-a238-5addba3d023f": "2. Question 2: Explain the reasoning behind Paul Graham's choice of orange as the color for Y Combinator's branding, and how it contrasted with the colors used by other Venture Capital firms in 2005. (Critical Thinking and Comparative Analysis)",
+        "551f00ea-6add-453a-bf2a-06803de09b1c": "Question 1 (Historical Context): In the given text, who is the author's former colleague with whom they had a close working relationship at YC?",
+        "0809f39f-e732-4565-8960-56cfe535dd3b": "Answer: Jessica Livingston"
     },
     "corpus": {
         "node_0": "What I Worked On\n\nFebruary 2021\n\nBefore college the two main things I worked on, outside of school, were writing and programming. I didn't write essays. I wrote what beginning writers were supposed to write then, and probably still are: short stories. My stories were awful. They had hardly any plot, just characters with strong feelings, which I imagined made them deep.\n\nThe first programs I tried writing were on the IBM 1401 that our school district used for what was then called \"data processing.\" This was in 9th grade, so I was 13 or 14. The school district's 1401 happened to be in the basement of our junior high school, and my friend Rich Draves and I got permission to use it. It was like a mini Bond villain's lair down there, with all these alien-looking machines \u2014 CPU, disk drives, printer, card reader \u2014 sitting up on a raised floor under bright fluorescent lights.\n\nThe language we used was an early version of Fortran. You had to type programs on punch cards, then stack them in the card reader and press a button to load the program into memory and run it. The result would ordinarily be to print something on the spectacularly loud printer.\n\nI was puzzled by the 1401. I couldn't figure out what to do with it. And in retrospect there's not much I could have done with it. The only form of input to programs was data stored on punched cards, and I didn't have any data stored on punched cards. The only other option was to do things that didn't rely on any input, like calculate approximations of pi, but I didn't know enough math to do anything interesting of that type. So I'm not surprised I can't remember any programs I wrote, because they can't have done much. My clearest memory is of the moment I learned it was possible for programs not to terminate, when one of mine didn't. On a machine without time-sharing, this was a social as well as a technical error, as the data center manager's expression made clear.\n\nWith microcomputers, everything changed.",
@@ -175,346 +175,346 @@
         "node_56": "[15] I've never liked the term \"deal flow,\" because it implies that the number of new startups at any given time is fixed. This is not only false, but it's the purpose of YC to falsify it, by causing startups to be founded that would not otherwise have existed.\n\n[16] She reports that they were all different shapes and sizes, because there was a run on air conditioners and she had to get whatever she could, but that they were all heavier than she could carry now.\n\n[17] Another problem with HN was a bizarre edge case that occurs when you both write essays and run a forum. When you run a forum, you're assumed to see if not every conversation, at least every conversation involving you. And when you write essays, people post highly imaginative misinterpretations of them on forums. Individually these two phenomena are tedious but bearable, but the combination is disastrous. You actually have to respond to the misinterpretations, because the assumption that you're present in the conversation means that not responding to any sufficiently upvoted misinterpretation reads as a tacit admission that it's correct. But that in turn encourages more; anyone who wants to pick a fight with you senses that now is their chance.\n\n[18] The worst thing about leaving YC was not working with Jessica anymore. We'd been working on YC almost the whole time we'd known each other, and we'd neither tried nor wanted to separate it from our personal lives, so leaving was like pulling up a deeply rooted tree.\n\n[19] One way to get more precise about the concept of invented vs discovered is to talk about space aliens. Any sufficiently advanced alien civilization would certainly know about the Pythagorean theorem, for example. I believe, though with less certainty, that they would also know about the Lisp in McCarthy's 1960 paper.\n\nBut if so there's no reason to suppose that this is the limit of the language that might be known to them. Presumably aliens need numbers and errors and I/O too. So it seems likely there exists at least one path out of McCarthy's Lisp along which discoveredness is preserved.\n\n\n\nThanks to Trevor Blackwell, John Collison, Patrick Collison, Daniel Gackle, Ralph Hazell, Jessica Livingston, Robert Morris, and Harj Taggar for reading drafts of this."
     },
     "relevant_docs": {
-        "6203d1ec-d789-415c-9157-86b521795090": [
+        "5abc3be7-bae0-442c-ad25-37de4cf273ed": [
             "node_0"
         ],
-        "abd64d1e-067a-468b-a72b-9a9dfc48a585": [
+        "ce0a59b0-ac87-4bd5-b008-6dde61907ebf": [
             "node_0"
         ],
-        "46519390-c81f-443d-86c4-420004b0b870": [
+        "8557b956-9e44-4569-82eb-3dc54c024b7b": [
             "node_1"
         ],
-        "87f86d34-b201-4bfc-b0d8-4b671cb590e0": [
+        "e963d882-2d72-4d78-b2ba-c950e92674b0": [
             "node_1"
         ],
-        "6c4958a6-21cd-47ec-b311-7dff17b114d8": [
+        "076eb60d-05a3-4022-b0be-52c696fbd25a": [
             "node_2"
         ],
-        "afaca057-3512-4a20-a008-8f5fa452b33b": [
+        "2ec6410f-f752-4348-99ce-26038bf75424": [
             "node_2"
         ],
-        "5f3601e0-73f6-44ad-8792-4c4d2356347a": [
+        "fcee596a-6096-46a4-a528-bea95362eb41": [
             "node_3"
         ],
-        "c989bf62-d2f4-454e-a9c2-a239308ba473": [
+        "91084e34-2da3-4a1f-9980-1357519fb598": [
             "node_3"
         ],
-        "dca8b008-40b2-4ebd-9ee8-fd8902b9797c": [
+        "e731dd9a-62a2-4e33-88f6-f6e0d1a539f9": [
             "node_4"
         ],
-        "ff154cf3-be52-48f7-935b-ce7a02b19f46": [
+        "68bca25a-f7a7-47a1-ad40-525f33fdec60": [
             "node_4"
         ],
-        "74319c17-a44e-4eea-9b6c-950ade639b22": [
+        "56e2b3b6-1a02-41f8-aabc-bdf6557a2b20": [
             "node_5"
         ],
-        "da549622-d2a6-4175-bb5d-d7e0dd33b158": [
+        "81666c12-136e-4c07-9dbe-be83345db290": [
             "node_5"
         ],
-        "ad042fff-894f-4af0-8cee-72482d0ca554": [
+        "3322c6d3-9904-4edc-8257-b38e20e8555c": [
             "node_6"
         ],
-        "4d8422bf-f196-49ed-9f21-e9ad449287fe": [
+        "9ca770e4-2970-437b-b3dc-d085f809a014": [
             "node_6"
         ],
-        "465ab228-ed38-4b59-98a1-36727e753acf": [
+        "edbf0def-d5db-404e-bff8-92098c4046b6": [
             "node_7"
         ],
-        "fceaeb28-ae08-46bb-9a06-f48f00738d71": [
+        "54b5ab06-2b0b-4f3b-baef-83a00d81aac8": [
             "node_7"
         ],
-        "f95ff50b-1487-4355-ad4d-1cd119c86d13": [
+        "a149ea00-7c16-4196-8439-daca02b67947": [
             "node_8"
         ],
-        "5b980281-1245-4799-8611-6a5c271a7aac": [
+        "79e7bb60-d734-49e5-ad59-307a812cb36d": [
             "node_8"
         ],
-        "2fccc3a4-675e-41db-a165-a71572b54f56": [
+        "bba26bb6-7b02-49a2-9381-4c048beb74de": [
             "node_9"
         ],
-        "2dd48d3e-9c6c-40a5-a56d-492ad4526e73": [
+        "75a4ae5a-e28e-4a22-a600-023aff494557": [
             "node_9"
         ],
-        "188f3825-6ab9-4e9c-a8fb-4d5244371d3a": [
+        "0b9d4356-a1d8-4140-99d8-4541c7d95cc5": [
             "node_10"
         ],
-        "150764a5-03fb-459a-9abb-9bb689e768cd": [
+        "7f552054-a428-4f3f-96a2-9805ecec8d53": [
             "node_10"
         ],
-        "d62a6945-926d-46ae-8866-e8b75b730acb": [
+        "4174318a-f693-47c9-9ce3-42da1a41856d": [
             "node_11"
         ],
-        "0aa5058f-3aef-4120-99f9-e0326b749cd9": [
+        "86f710ab-c074-4196-9173-dc6304d32f53": [
             "node_11"
         ],
-        "5a871a70-16c4-4774-af10-de1175bceb8d": [
+        "8928f15e-c440-4b85-ab0b-6952137b24b4": [
             "node_12"
         ],
-        "14cdaf85-f15b-42f1-a110-8049f07a89f8": [
+        "c7cda7b2-94dc-468b-ad9e-fbb622053171": [
             "node_12"
         ],
-        "bdb83b22-f623-4e9b-af89-ee05ae44f2cc": [
+        "fe52bc33-0a97-485b-8ae5-1c1ffe40cc3e": [
             "node_13"
         ],
-        "387a5426-606c-4771-ba69-aabd8da37101": [
+        "2000c14c-9ff9-4159-a7b1-b36f53be9dcf": [
             "node_13"
         ],
-        "dfb5e9e4-2fb5-44e1-ad94-d74f8be987f1": [
+        "eb39bd93-12bb-4b1d-837d-2c6530946a6d": [
             "node_14"
         ],
-        "6def5f47-2816-4398-8684-d6a7bd493d9d": [
+        "0304d5c1-3ce9-4bdc-a1be-8868226ecb22": [
             "node_14"
         ],
-        "efbe9b83-78d9-403c-99df-fffe04d63c72": [
+        "d48cfece-885d-4990-94dd-7e8640870628": [
             "node_15"
         ],
-        "7b77a8a6-5898-42be-b80e-648b1ee91446": [
+        "ae95179f-d33f-4ba1-abc2-64635750ce1c": [
             "node_15"
         ],
-        "93ded55b-67ab-420f-99d3-8ad2c35cf826": [
+        "54c66723-f9a9-46c0-9b2a-6a3dd6318f04": [
             "node_16"
         ],
-        "ad549e34-8f61-4b15-b948-4e0a156bd07c": [
+        "0df5a512-acaa-44e2-b62b-8db60ee0b8ac": [
             "node_16"
         ],
-        "2fceb63d-6e53-40f5-9b29-591b125b3957": [
+        "8cb4f5a3-5180-461a-a6b7-2ea7875807b5": [
             "node_17"
         ],
-        "f8b51a4c-0158-4b91-9ace-e12cfcdb9cc4": [
+        "de3b1acc-f35b-4927-8382-5b44421f89a3": [
             "node_17"
         ],
-        "0283ed82-11d5-4497-9764-73b6f18bef2f": [
+        "1d5b8198-76a5-4438-a92a-2ae0d2a93775": [
             "node_18"
         ],
-        "1293534f-b267-4b9a-8a3f-0d705a4238fd": [
+        "7d3641fe-185e-4e94-8e25-70b6abcc1bfc": [
             "node_18"
         ],
-        "54a0c8a6-94a8-4525-bb13-228403184221": [
+        "8495f8d4-6ff0-4383-bfed-152b21156eda": [
             "node_19"
         ],
-        "161fc6f2-5b30-408a-aa5e-c95652d4d6f5": [
+        "04162918-1e31-48b9-8f9a-78d88434c9e6": [
             "node_19"
         ],
-        "98edf637-1738-4a9d-b258-a01242d5bda4": [
+        "4b039711-dfcb-4960-b979-6bfba8cf4023": [
             "node_20"
         ],
-        "3bd602b0-fa4a-48f0-b64f-a023a98633af": [
+        "cff209c5-3b9f-42de-bd84-70d5a16fb6a5": [
             "node_20"
         ],
-        "3cc33f23-554f-4fad-8560-00f6886a8ba2": [
+        "54f2aa78-5ca7-40b0-9ef9-b8ee80eab92a": [
             "node_21"
         ],
-        "40b8bff7-3309-444c-a901-abb3245a95ac": [
+        "04ad4859-619c-481b-a5cd-6565f96e36af": [
             "node_21"
         ],
-        "e4dbaa40-c691-4e36-8b2b-1e3f459310b4": [
+        "c4768bcd-adfc-464e-b921-51f999dad716": [
             "node_22"
         ],
-        "a10b07c1-fd5d-45f0-8656-d5ec4b64ba02": [
+        "1d9a583d-924f-4acb-9f06-f4fa3968ef3d": [
             "node_22"
         ],
-        "34b4f272-33f6-4693-9cce-6f182854b8e0": [
+        "00b44444-189b-4bbe-bced-4d2619c09b86": [
             "node_23"
         ],
-        "517a8e36-6a63-4523-90e3-402a6203822d": [
+        "3f229154-2806-46db-a92b-8eeb1fff75af": [
             "node_23"
         ],
-        "5adb8f6f-6fd3-4b33-911a-224a6a2e5d55": [
+        "b752fa82-eafc-4aa6-a735-12652fdf4c4e": [
             "node_24"
         ],
-        "aae4766f-e7c3-44c1-940e-a0e8d9bbb688": [
+        "6c817233-dec7-4594-9788-3bd9e752fe7b": [
             "node_24"
         ],
-        "bf15c36c-df16-4727-8c95-58b4b53db2aa": [
+        "0f87d3d0-191a-4f92-bcd1-175ec0a673a4": [
             "node_25"
         ],
-        "15c58b65-6079-4aae-8a5d-a089fb0dd24b": [
+        "e8f0fb55-26a6-44d4-9a52-a9aa891f61af": [
             "node_25"
         ],
-        "136d77cd-748f-475d-ada7-338ec210d6e3": [
+        "35185f22-f9c7-4dc6-abb3-cb8ba6c9d0e4": [
             "node_26"
         ],
-        "a1f79000-7f36-409a-be7c-8ce9a38aa9a6": [
+        "72f2f080-398d-4792-b3a6-3141543022c4": [
             "node_26"
         ],
-        "1698d481-b256-4f26-8d26-e4b396f8395d": [
+        "b418a892-3108-4ffb-9fec-0ff72808d0d0": [
             "node_27"
         ],
-        "88944192-2591-47d8-871e-f63b77a50a6c": [
+        "99541adc-59aa-4d17-b9da-5fd0c94837ea": [
             "node_27"
         ],
-        "ddfb08ac-f32e-4d41-b3b3-ca0d856ff3cd": [
+        "f8645969-de6e-4f36-8db8-7b3985b608e4": [
             "node_28"
         ],
-        "47d59130-7fae-4bdb-8f26-b34453f703a3": [
+        "9218b4cf-2582-4194-96c1-072a419b61af": [
             "node_28"
         ],
-        "af229bb7-c185-4573-a82d-8968262c0c1b": [
+        "78b4cb80-a854-4cde-aaff-08e1bb6cf9f6": [
             "node_29"
         ],
-        "086f8736-1eea-4a1c-b521-c4129e1c61cd": [
+        "7f55612b-76f8-4285-b71f-9a09a95fad0c": [
             "node_29"
         ],
-        "520aa14a-1551-4076-896c-1e7676694980": [
+        "2199ff06-834d-4208-be44-a792f6be0c31": [
             "node_30"
         ],
-        "22b624a3-a6a5-4222-af27-d8303d2c97c5": [
+        "bcd75957-1598-4213-a64c-807f385a5553": [
             "node_30"
         ],
-        "d4f01cb7-28cb-4efb-a61f-ad9a535f47b3": [
+        "99cb55af-65c2-4eac-be9e-1ef13b022502": [
             "node_31"
         ],
-        "b5fcfb8c-173f-46ec-9c4f-c07bbd637907": [
+        "37f2840e-26a4-4c1d-b9f8-1958d95a2aeb": [
             "node_31"
         ],
-        "a3cd3472-83d8-49be-99bc-fe2d3820b7a7": [
+        "c17c311f-5ef5-4741-a9b2-92ac59b56875": [
             "node_32"
         ],
-        "f15c67f0-dd0e-4b7f-9828-854cabc6b2f0": [
+        "672f79bf-c29f-43da-aac6-f4503381da53": [
             "node_32"
         ],
-        "a9e32bc0-ef3d-4dc6-9053-64d6b4bd6dc2": [
+        "8438ded8-8e18-45fe-b606-79e0a710ad2f": [
             "node_33"
         ],
-        "7a78601a-f4d2-4257-b99a-eb62c278e3a9": [
+        "e2055f9a-575c-4ca1-8f2c-8457c541e97d": [
             "node_33"
         ],
-        "15301859-5475-4f69-a368-01a03708b4db": [
+        "f20c7187-cb96-44bb-b834-08fd7cf5119a": [
             "node_34"
         ],
-        "3f225aae-41a5-4ebe-b122-d2def11e2f06": [
+        "172bc797-c4ab-4607-b4b4-9a7f02de7a65": [
             "node_34"
         ],
-        "29138193-8d8a-4346-a9ec-94e82e5cf89c": [
+        "58baf11a-3801-44f3-899a-101377b71456": [
             "node_35"
         ],
-        "79c657b8-2cbc-4c03-9634-43bae45cfaf3": [
+        "1f14c7e0-0a6e-4445-adb5-fd424a465a77": [
             "node_35"
         ],
-        "dde575ce-91b1-45e8-840c-f350e7211963": [
+        "11bba3c6-4f59-41ac-acc5-a63326290af6": [
             "node_36"
         ],
-        "b08a9e39-a806-4783-a02f-993c399003e2": [
+        "a70de1e9-44cb-44e4-bdc7-24f06d67af30": [
             "node_36"
         ],
-        "44d9d78e-0ace-436a-b2f8-5c7bb667ae0e": [
+        "5e1c66e8-5154-49ed-b99f-5c929a16da6f": [
             "node_37"
         ],
-        "6db5f1ec-5439-4876-9265-9680b5cf0863": [
+        "f374c7d4-c6c6-4561-b4d5-6df88c316937": [
             "node_37"
         ],
-        "fa32d1ab-c96c-4c58-9eb4-0f2e5dd12948": [
+        "a5113599-a569-4417-b36b-e05f0a079a21": [
             "node_38"
         ],
-        "45154a96-bc28-47e2-8283-c2b8b5644e30": [
+        "dcaade2f-e854-4017-a55b-510478e790e6": [
             "node_38"
         ],
-        "eb78a3da-60b8-481e-9ff7-b2f41df2b4f9": [
+        "1374a2b1-68f8-41eb-a01f-4bf5a83b5c5d": [
             "node_39"
         ],
-        "e7ca929b-0bdf-4153-8732-d9f0911ef97c": [
+        "74b6aac5-b6d8-40ad-ab3f-d8a3bc19dcc1": [
             "node_39"
         ],
-        "a5c3b49d-fda7-4cf1-b4eb-c6d28fbe14d6": [
+        "b02e3e5c-6e92-4f53-8303-fc8a7d92b6fb": [
             "node_40"
         ],
-        "1bf748ca-eac4-453c-97d3-73328bc91a40": [
+        "ed23581f-8fb6-4b48-9af8-b7ce171a0ab4": [
             "node_40"
         ],
-        "168ad184-2d9d-4101-83a3-531354bf0121": [
+        "392b68ba-c8f4-4439-99fd-67b7ac2dd8cb": [
             "node_41"
         ],
-        "b02e6e7b-ae6c-467a-94fd-573b4bd018b0": [
+        "0bceddbf-6890-4f8b-997d-3826509e96a4": [
             "node_41"
         ],
-        "55d76910-7683-4001-a3c2-7309d307c9c3": [
+        "5f64230e-afdc-4848-abcf-11b630ab17ad": [
             "node_42"
         ],
-        "b1918d5d-4dca-49ce-be2e-c72dd3cf837d": [
+        "df5e14e7-10ae-4f76-a3fc-35083950b7a5": [
             "node_42"
         ],
-        "1598d171-81cc-43ee-a8cc-d90f8a781182": [
+        "0654680c-5f48-4e89-93ee-c5963b98c72c": [
             "node_43"
         ],
-        "a2efefcd-a016-42bd-82c8-6218a9f1c29b": [
+        "2e0811a1-552e-461f-a9db-e31cc26c7fee": [
             "node_43"
         ],
-        "046feb3e-f2e6-46cc-8a8c-5ac80d2851b1": [
+        "5b96ca31-cf2f-48d2-8193-01b02804e4b6": [
             "node_44"
         ],
-        "dedef7d4-586d-449f-99bd-553edf87bdcf": [
+        "4f3fac07-24f7-490b-9b31-2eff34db82cc": [
             "node_44"
         ],
-        "0e1bad19-f0af-4a47-849e-3680e127e95f": [
+        "14c3f080-31ea-4296-ac90-3ea82c164e47": [
             "node_45"
         ],
-        "9ce9910e-bfd6-47ec-b80d-151ca95aef4c": [
+        "5ee59565-b07f-42cd-8313-10acc1b271af": [
             "node_45"
         ],
-        "8a3de12a-eb2c-4664-be84-b936d3af9680": [
+        "7061b27f-1b61-4469-adee-2e2185252ec5": [
             "node_46"
         ],
-        "e3767383-65a8-4590-80de-10e79fad8ed4": [
+        "0a0a7033-f650-401c-b395-2fe84fca2966": [
             "node_46"
         ],
-        "d60201da-c327-435d-ad50-0419f4ce3079": [
+        "6e12304e-6e99-4dfb-be4a-c709f9c91f60": [
             "node_47"
         ],
-        "9ab6a304-c624-4b6e-8439-60ee43aa83f7": [
+        "47dcefa9-fc78-49fb-b7bb-315cfe5197ed": [
             "node_47"
         ],
-        "fce3f3ed-edf6-41ff-a6c7-b11595cde802": [
+        "13d5e5fd-f1b7-4515-8353-2fa9ab075d16": [
             "node_48"
         ],
-        "839240ce-84ef-4258-8f27-88806b504906": [
+        "7e67de87-c73a-4ede-9c58-ba7dcb739cd6": [
             "node_48"
         ],
-        "c8edb790-bdc4-4ed7-b0e2-a1b778f5f560": [
+        "d81eae4d-dec8-4635-9b1f-bc6a55cf09cd": [
             "node_49"
         ],
-        "04f88510-ad5b-4f79-a9db-670248ffb3a0": [
+        "fe291cb8-7fb6-4ba7-b4ea-a89f876d3988": [
             "node_49"
         ],
-        "a059c6cc-97fc-4610-9f91-32a48910ed0a": [
+        "960a1c03-adcf-4e3f-9e6c-59a9db5713c2": [
             "node_50"
         ],
-        "8595ce22-3039-43a2-806f-2217975f83cc": [
+        "4af60d36-7df7-4bef-bf4c-484a754fb58f": [
             "node_50"
         ],
-        "38d83421-a721-481d-bb6c-522e2648c25d": [
+        "c7698590-da78-41bf-b019-2450d515ca5f": [
             "node_51"
         ],
-        "4b51b999-6ad2-40fc-a767-ae5b254a8eb2": [
+        "dc8657fb-e149-4073-9725-a24d92bf7ea4": [
             "node_51"
         ],
-        "9e2f9f9e-21fe-42ce-8ad3-001dfd4bb946": [
+        "3c64ba97-7ec7-402c-9958-b90a5f0d215f": [
             "node_52"
         ],
-        "0d718edd-a58f-4e67-b7eb-e5bcbae3529f": [
+        "3cbc6eef-40a5-4a2c-bab5-05b97b1fff38": [
             "node_52"
         ],
-        "1f3f49e5-3833-4997-8a70-1f23ca22c905": [
+        "fde28bce-60d9-4923-8c72-448a271d57cb": [
             "node_53"
         ],
-        "2ffad3a7-4cd0-4cde-92a3-35b6f67ac8b8": [
+        "48f4ffaf-de87-40f5-8298-08dc4b1ec59b": [
             "node_53"
         ],
-        "4d361b10-47ee-41ed-9862-a3ea0f5507af": [
+        "761598a1-ea05-41e6-9c4e-ffcb08429307": [
             "node_54"
         ],
-        "80fce42d-3e06-423f-9fe7-88e3c5b69152": [
+        "d339f1b4-0437-4d36-b6ce-b454d1d05368": [
             "node_54"
         ],
-        "cb220cac-c196-4105-9640-5b2b6a6eb0ae": [
+        "dadbd5aa-731e-4458-a5bb-d6929aa34fec": [
             "node_55"
         ],
-        "ab2ca478-8b6f-4058-a769-29d4fc1f7491": [
+        "c4d40f9f-2d2d-4b0a-a238-5addba3d023f": [
             "node_55"
         ],
-        "8256c449-bef0-4da8-b4de-b67947a5d765": [
+        "551f00ea-6add-453a-bf2a-06803de09b1c": [
             "node_56"
         ],
-        "ca576502-344d-4768-96f5-5c6d84850ecb": [
+        "0809f39f-e732-4565-8960-56cfe535dd3b": [
             "node_56"
         ]
     },
