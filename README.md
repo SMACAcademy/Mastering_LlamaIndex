@@ -1,5 +1,8 @@
 # Mastering LlamaIndex: Build Smart AI-Powered Data Solutions
 
+![Llama_Index](https://github.com/user-attachments/assets/a2cf16b7-3d30-47b3-b7df-799b0f33d446)
+
+
 Welcome to **Mastering LlamaIndex**, your ultimate guide to building cutting-edge, AI-powered data solutions. Whether you're a developer, data scientist, or AI enthusiast, this course will empower you to design, implement, and optimize **intelligent data workflows** using **LlamaIndex** and its advanced tools. By combining practical techniques and real-world applications, this course will help you build **Retrieval-Augmented Generation (RAG) pipelines**, leverage **embeddings**, and harness the full potential of AI to solve complex data challenges.
 
 ---
