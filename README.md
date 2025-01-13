@@ -72,7 +72,10 @@ By the end of this course, you will:
 - Have a strong understanding of **LlamaIndex fundamentals** and their applications.  
 - Be able to design and deploy **AI-powered workflows** with confidence.  
 - Understand how to use **embeddings, indexing, and query engines** to solve real-world data challenges.  
-- Be equipped to evaluate and refine your AI systems for optimal performance.  
+- Be equipped to evaluate and refine your AI systems for optimal performance.
+ 
+Enroll here : [Mastering LlamaIndex: Build Smart AI-Powered Data Solutions](https://www.udemy.com/course/mastering-llamaindex-build-smart-ai-powered-data-solutions/?referralCode=2427D83B1F3480C2A906) 
+
 
 ---
 
